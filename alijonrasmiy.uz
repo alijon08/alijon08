@@ -1,0 +1,38 @@
+<a href="http://alijonrasmiy.uz">Alijon Rasmiy</a>
+<!DOCTYPE html>
+<html>
+
+<head> 
+  <meta charset="utf-8">
+  <title>Rasmiy!</title>
+ <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <div id="container">
+    <h1>Alijon</h1>
+    <!-- photo credit: wikipedia.org, image taken by Ritik -->
+    <img src="Alijon.jpg" alt="Alijon">
+    <div id="card" class="animal-info">
+
+      <p id="interesting-fact">TARIFI</p>
+      <ul id="facts">
+        <li>
+          <span> Name</span>:Alijon
+        </li>
+        <li>
+          <span>Average Length</span>: 165 cantimetr
+        </li>
+        <li>
+          <span>Average Lifespan</span>: 14 years
+        </li>
+        
+      </ul>
+      <p id="summary">Xorazm viloyati Bog'ot tumani O'g'uzravot qishlog'i Ustalar mahallasi Sardor ko'chasi 7-uyda yashaydi
+          Tojiboyev Alijon
+      </p>
+    </div>
+  </div>
+</body>
+
+</html>
